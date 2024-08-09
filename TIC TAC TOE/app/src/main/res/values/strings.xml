@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">External</string>
+    <string name="weight">Enter Your Weight </string>
+    <string name="heightf">Enter your Height in feets</string>
+    <string name="calc">Calculate</string>
+    <string name="heighti">Enter your Height in inches</string>
+    <string name="the_xo_mania">THE XO</string>
+    <string name="thexo">!!!MANIA!!!</string>
+</resources>
